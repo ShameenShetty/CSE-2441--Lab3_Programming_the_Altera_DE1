@@ -7,16 +7,16 @@ To give you experience using the basic features of the DE1 in FPGA mode and prog
 
 ### Assignments
 * Section 1
-![]()  
+![](https://github.com/ShameenShetty/CSE-2441--Lab3_Programming_the_Altera_DE1/blob/master/Lab%203%20Section%202%20Full%20Adder/Lab%203%20Section%202%20Full%20Adder.png)  
 
 
 
 * Section 2 Full Adder
-![]()  
+![](https://github.com/ShameenShetty/CSE-2441--Lab3_Programming_the_Altera_DE1/blob/master/Lab%203%20Section%201/Lab%203%20Sec%201.png)  
 
 
 
 * Section 3 Adder Subtractor
-![]()  
+![](https://github.com/ShameenShetty/CSE-2441--Lab3_Programming_the_Altera_DE1/blob/master/Lab%203%20Section%203%20Adder%20Subtractor/Lab%203%20Section%203%20Adder%20Subtractor.png)  
 
 
